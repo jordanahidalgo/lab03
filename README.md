@@ -10,11 +10,11 @@
 * private Person tutor; tutor
 * private Game game; game
 
-## From what you know about the naming conventions for classes, which of the type names in the above questions would you say are class names? Student Server Game
+## From what you know about the naming conventions for classes, which of the type names in the above questions would you say are class names? Student Server Person Game
 
 ## In the following field declaration from the `TicketMachine` class  
 ```
-private int price;
+int private price;
 ```
 does it matter which order the three words appear in? Edit the TicketMachine class to try different orderings. After each change, close the editor. Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are possible? Check by pressing the Compile button to see if there is an error message. Make sure that you reinstate the original version after your experiments! 
 
